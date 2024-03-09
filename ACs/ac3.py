@@ -52,7 +52,7 @@ def testa_dia_semana():
     
 # testa_dia_semana()
     
-#Exercício 3:
+# Exercício 3:
 
 def inserir_numeros():
     """Retorna o número inserido pelo usuário."""
