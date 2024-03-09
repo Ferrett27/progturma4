@@ -84,4 +84,4 @@ def calculadora():
     print("Resultado:", resul)
 
 
-calculadora()
+# calculadora()
